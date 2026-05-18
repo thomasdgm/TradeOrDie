@@ -1,0 +1,34 @@
+Baisse taux directeur BCE,La Banque Centrale Européenne tiendra une conférence dans 3h : une baisse des taux est quasi certaine,1.05,1,Action
+Plan de relance EU,La Commission Européenne va signer un chèque massif pour l'industrie d'ici ce soir,1.06,1,Action
+Vente massive d'Obligataire,De gros fonds spéculatifs s'apprêtent à dumper leurs titres d'Etats dans l'après-midi,1.05,1,Action
+Panique boursière,Des rumeurs de défaut de paiement d'une banque systématique agitent les terminaux Bloomberg,0.85,1,Action
+Hausse taux directeur BCE,La Banque Centrale Européenne tiendra une conférence dans 3h : une hausse des taux est quasi certaine,0.95,1,Action
+Régulation IA,L'UE vote une loi limitant l'usage de l'IA générative dans les services publics,0.88,1,Action
+Chômage augmente,Le taux de chômage aux Etats-Unis est plus élevé que les estimations,0.97,1,Action
+Inflation record,Le rapport sur l'inflation sortira à la mi-journée et les prévisions sont alarmantes,0.94,1,Action
+Adoption crypto,BNP Paribas annonce qu'ils acceptent désormais les paiements en crypto,1.15,1,Crypto
+Adoption institutionnelle,Les grands fonds de pension vont annoncer allouer 5% de leur capital aux actifs numériques,1.15,1,Crypto
+Régulation crypto,Le G20 annonce des mesures de régulation strict sur les plateforme d'échange,0.85,1,Crypto
+Subvention Nvidia,Le gouvernement décide de subventionner Nvidia pour construire de nouvelles usines pour puces au Texas,1.2,0,Nvidia
+Keynote Nvidia,La conférence de Nvidia commence dans 1h : une puce révolutionnaire devrait être dévoilée,1.2,0,Nvidia
+Baisse data center,Un article publié dans le Times montre que l'investissement dans les data centers a baissé de 10% cette année,0.8,0,Nvidia
+Taxer Nvidia,Le gouvernement décide de taxer plus les entreprises liées à l'IA,0.8,0,Nvidia
+Alerte logistique,Une grève surprise dans les fonderie bloque l'approvisionnement de Nvidia,0.85,0,Nvidia
+Incident Industriel,Une usine Airliquid subit une panne majeure retardant les livraisons,0.88,0,AirLiquid
+Guerre moyen orient,L'Iran ferme de le détroit d'Ormuz,0.9,0,Airliquid
+Fusion Gazière,Airliquid rachète un concurrent asiatique renforçant sa position sur le continent,1.07,0,Airliquid
+Contrat Aéronautique,Airliquid est pressenti pour devenir le fournisseur oxygène exclusif d'Airbus,1.10,0,Airliquid
+Subvention verte,L'UE va accorder une aide de 10 millions à Airliquid pour ses projets hydrogène,1.04,0,Airliquid
+Partenariat Orange,Orange signe un contrat exclusif avec la NASA pour des infrastructures,1.09,0,Orange
+Annonce dividende,La direction d'Orange va annoncer une hausse du dividende lors du prochain call,1.05,0,Orange
+Panne Orange,Un bug national prive les abonnés de réseau pendant 48h,0.91,0,Orange
+Rumeur de Takeover,Des bruits de couloir suggèrent une OPA imminente sur le groupe Orange,1.12,0,Orange
+Halving Bitcoin,Le halving du Bitcoin approche et l'offre disponible sur les exchange s'effondre,1.25,0,Bitcoin
+ETF BTC,La SEC devrait valider un nouvel ETF Bitcoin spot dans les prochaines heures,1.18,0,Bitcoin
+Légalisation, Le Salvador va annoncer une nouvelle loi intégrant le Bitcoin dans les salaires,1.1,0,Bitcoin
+Mouvement de Whale,Une adresse Bitcoin inactive depuis 2011 vient de déplacer 50 000 BTC,0.9,0,Bitcoin
+Mis à jour Solana,Une conférence majeure annonce des mises à jour importante pour le réseau,1.15,0,Solana
+Lancement d'App,Une application décentralisée importante va migrer sur le réseaux Solana bientôt,1.10,0,Solana
+Sortie Mobile,Le nouveau smartphone Saga de Solana est disponible en pré-commande d'ici 2h,1.08,0,Solana
+Instabilité réseau,La blockchain Solana subit des ralentissement critiques qui inquiètent les validateurs,0.70,0,Solana
+Faille de sécurité,Une faille critique vient d'être détecté sur un protocole de Solana,0.8,0,Solana
